@@ -1,0 +1,18 @@
+# Bạn được yêu cầu xây dựng một chương trình quản lý thư viện sách cơ bản bằng Python. 
+# Chương trình này sẽ cho phép người dùng thêm sách, hiển thị danh sách sách có sẵn, tìm kiếm sách theo tên, và xóa sách khỏi danh sách.
+
+# Thêm sách:
+# Mỗi cuốn sách sẽ có các thuộc tính: mã sách (mã duy nhất), tên sách, tên tác giả, và năm xuất bản.
+# Người dùng có thể nhập các thông tin này để thêm sách mới vào thư viện.
+
+# Hiển thị danh sách sách:
+# Chương trình sẽ hiển thị toàn bộ các sách có trong thư viện
+
+# Tìm kiếm sách theo tên:
+# Người dùng có thể nhập tên sách và chương trình sẽ hiển thị các sách có tên khớp hoặc gần giống.
+
+# Xóa sách:
+# Người dùng có thể nhập mã sách để xóa một cuốn sách khỏi danh sách.
+
+# Thoát chương trình:
+# Chương trình sẽ kết thúc khi người dùng chọn thoát.
